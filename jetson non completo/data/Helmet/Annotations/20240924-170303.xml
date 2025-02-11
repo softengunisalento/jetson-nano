@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20240924-170303.jpg</filename>
+    <folder>Helmet</folder>
+    <source>
+        <database>Helmet</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Helmet</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>402</xmin>
+            <ymin>192</ymin>
+            <xmax>753</xmax>
+            <ymax>500</ymax>
+        </bndbox>
+    </object>
+</annotation>
